@@ -1,6 +1,6 @@
 
 <div align = center >
-  <h1>Task List React Native</h1>
+  <h1>My Skills List React Native</h1>
   <h3>Home Page</h3>
  <img src="https://user-images.githubusercontent.com/69490077/139975819-4be74147-b943-42a2-8004-0da9e3d49c63.jpg" width="250px"/>
 </div>
