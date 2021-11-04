@@ -3,6 +3,8 @@
   <h1>My Skills List React Native</h1>
   <h3>Home Page</h3>
  <img src="https://user-images.githubusercontent.com/69490077/139975819-4be74147-b943-42a2-8004-0da9e3d49c63.jpg" width="250px"/>
+   <img src="https://user-images.githubusercontent.com/69490077/140411910-6a793166-3d4e-42c3-b9aa-8b58eaaa9d33.gif" width="250px"/>
+
 </div>
 # Feature
 
